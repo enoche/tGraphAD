@@ -21,6 +21,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
 
 ### 2021
+- [Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT](https://ieeexplore.ieee.org/abstract/document/9497343) - Zekai Chen, Dingshuo Chen, Xiao Zhang, Zixuan Yuan, Xiuzhen Cheng. **IoTJ, Jul 2021**  | [`[pdf]`](https://arxiv.org/pdf/2104.03466.pdf) |  [`[code]`](https://github.com/ZEKAICHEN/GTA)
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) - Ailin Deng, Bryan Hooi. **AAAI, May 2021**  | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/16523/16330) |  [`[code]`](https://github.com/d-ailin/GDN)
 - [Graph Neural Networks for Anomaly Detection in Industrial Internet of Things](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/9471816) - Yulei Wu, Hong-Ning Dai, Haina Tang. **IoTJ, Jul, 2021** | [`[pdf]`](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/126468/GNN_AD_IIoT_Final.pdf?sequence=1)  
 
