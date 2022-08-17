@@ -1,0 +1,32 @@
+# Graph-based Anomaly Detection Since 2020
+A curated list of awesome graph-based anomaly detection resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
+*- Last updated: 2022/08/17  
+
+
+## Experimental Evaluation
+
+- [Anomaly detection in time series: a comprehensive evaluation](https://dl.acm.org/doi/10.14778/3538598.3538602) - Sebastian Schmidl, Phillip Wenig, Thorsten Papenbrock. **P-VLDB, Jul 2022**  | [`[pdf]`](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf) | [`[code]`](https://hpi-information-systems.github.io/timeeval-evaluation-paper/)
+
+## Survey
+- [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://arxiv.org/abs/2106.07178) - Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu. **Arxiv, Apr 2022**  | [`[pdf]`](https://arxiv.org/pdf/2106.07178.pdf)    
+
+
+## Table of Contents
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
+
+### 2022
+- [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Dai, Enyan, and Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
+
+### 2021
+-   
+
+### 2020
+-   
+
+### Public Datasets (Link verified :heavy_check_mark:)
+- [SWaT] (https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)   
+
+
