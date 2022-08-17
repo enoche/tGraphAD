@@ -1,5 +1,5 @@
-# Graph-based Anomaly Detection Since 2020
-A curated list of awesome graph-based anomaly detection resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
+# Graph-based Anomaly Detection (2020 &rarr;)
+A curated list of recent awesome graph-based anomaly detection resources from 2020 (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
 *- Last updated: 2022/08/17  
 
 
