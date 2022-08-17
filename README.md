@@ -21,7 +21,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
 
 ### 2021
--   
+- [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/16523/16330) |  [`[code]`](https://github.com/d-ailin/GDN)
 
 ### 2020
 - [Series2Graph: graph-based subsequence anomaly detection for time series](https://dl.acm.org/doi/10.14778/3407790.3407792) - Paul Boniol, Themis Palpanas. **P-VLDB, Aug 2020**  | [`[pdf]`](http://www.vldb.org/pvldb/vol13/p1821-boniol.pdf)  | [`code`](https://helios2.mi.parisdescartes.fr/~themisp/series2graph/)
