@@ -26,6 +26,8 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 ### 2020
 - [Series2Graph: graph-based subsequence anomaly detection for time series](https://dl.acm.org/doi/10.14778/3407790.3407792) - Paul Boniol, Themis Palpanas. **P-VLDB, Aug 2020**  | [`[pdf]`](http://www.vldb.org/pvldb/vol13/p1821-boniol.pdf)  | [`code`](https://helios2.mi.parisdescartes.fr/~themisp/series2graph/)
 
+- [Multivariate Time-Series Anomaly Detection via Graph Attention Network](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/abstract/document/9338317) - Hang Zhao, Yujing Wang, Juanyong Duan, Congrui Huang, Defu Cao, Yunhai Tong, Bixiong Xu, Jing Bai, Jie Tong, Qi Zhang. **ICDM, Nov 2020**  | [`[pdf]`](https://arxiv.org/pdf/2009.02040.pdf)  | [`code`](https://github.com/ML4ITS/mtad-gat-pytorch)
+
 ### Public Datasets (Link verified :heavy_check_mark:)
 - [SWaT] (https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)   
 
