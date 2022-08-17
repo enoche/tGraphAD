@@ -19,6 +19,8 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 ### 2022
 - [Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
+- [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3488560.3498473) - Rongrong Ma, Guansong Pang, Ling Chen, Anton van den Hengel. **WSDM, Feb 2022** |  | [`[pdf]`](https://arxiv.org/pdf/2112.10063.pdf) |  [`[code]`](https://github.com/RongrongMa/GLocalKD)
+
 
 
 ### 2021
