@@ -47,7 +47,8 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 ---
 
 #### Static GAD
-- [Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9568697) - Yu Zheng; Ming Jin; Yixin Liu; Lianhua Chi; Khoa T. Phan; Yi-Ping Phoebe Chen. **TKDE, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2108.09896.pdf) |  [`[code]`](https://github.com/KimMeen/SL-GAD)  
 
 - [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3488560.3498473) - Rongrong Ma, Guansong Pang, Ling Chen, Anton van den Hengel. **WSDM, Feb 2022** | [`[pdf]`](https://arxiv.org/pdf/2112.10063.pdf) |  [`[code]`](https://github.com/RongrongMa/GLocalKD)
+
+- [Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/9568697) - Yu Zheng; Ming Jin; Yixin Liu; Lianhua Chi; Khoa T. Phan; Yi-Ping Phoebe Chen. **TKDE, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2108.09896.pdf) |  [`[code]`](https://github.com/KimMeen/SL-GAD)  
 
