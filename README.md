@@ -1,6 +1,6 @@
 # Graph-based Anomaly Detection in Time Series (2020 &rarr;)
 A curated list of recent awesome graph-based anomaly detection resources from 2020 (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
--- Last updated: 2022/08/17  
+-- Last updated: 2022/08/18  
 
 
 ## Experimental Evaluation
