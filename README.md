@@ -1,4 +1,4 @@
-# Graph-based Anomaly Detection (2020 &rarr;)
+# Graph-based Anomaly Detection in Time Series (2020 &rarr;)
 A curated list of recent awesome graph-based anomaly detection resources from 2020 (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
 -- Last updated: 2022/08/17  
 
@@ -7,7 +7,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 - [Anomaly detection in time series: a comprehensive evaluation](https://dl.acm.org/doi/10.14778/3538598.3538602) - Sebastian Schmidl, Phillip Wenig, Thorsten Papenbrock. **P-VLDB, Jul 2022**  | [`[pdf]`](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf) | [`[code]`](https://hpi-information-systems.github.io/timeeval-evaluation-paper/)
 
-## Survey
+## General Survey
 - [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) - Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu. **TKDE, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2106.07178.pdf)  | [`paper lists`](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)    
 
 
@@ -29,6 +29,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [Learning Graph Structures with Transformer for Multivariate Time Series Anomaly Detection in IoT](https://ieeexplore.ieee.org/abstract/document/9497343) - Zekai Chen, Dingshuo Chen, Xiao Zhang, Zixuan Yuan, Xiuzhen Cheng. **IoTJ, Jul 2021**  | [`[pdf]`](https://arxiv.org/pdf/2104.03466.pdf) |  [`[code]`](https://github.com/ZEKAICHEN/GTA)  
 - [Decoupling Representation Learning and Classification for GNN-based Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3404835.3462944) - Yanling Wang, Jing Zhang, Shasha Guo, Hongzhi Yin,  Cuiping Li, Hong Chen. **SIGIR, Jul 2021**  | [`[pdf]`](https://xiaojingzi.github.io/publications/SIGIR21-Wang-et-al-decoupled-GNN.pdf) |  [`[code]`](https://github.com/wyl7/DCI-pytorch)  
 - [Graph Neural Network-Based Anomaly Detection in Multivariate Time Series](https://ojs.aaai.org/index.php/AAAI/article/view/16523) - Ailin Deng, Bryan Hooi. **AAAI, May 2021**  | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/16523/16330) |  [`[code]`](https://github.com/d-ailin/GDN)  
+
 - [One-class graph neural networks for anomaly detection in attributed networks](https://link.springer.com/article/10.1007/s00521-021-05924-9) - Xuhong Wang, Baihong Jin, Ying Du, Ping Cui, Yupu Yang. **Neural Computing & Applications, Mar 2021**  | [`[pdf]`](https://arxiv.org/pdf/2002.09594.pdf) |  [`[code]`](https://github.com/WangXuhongCN/OCGNN)  
 
 
