@@ -8,7 +8,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [Anomaly detection in time series: a comprehensive evaluation](https://dl.acm.org/doi/10.14778/3538598.3538602) - Sebastian Schmidl, Phillip Wenig, Thorsten Papenbrock. **P-VLDB, Jul 2022**  | [`[pdf]`](https://www.vldb.org/pvldb/vol15/p1779-wenig.pdf) | [`[code]`](https://hpi-information-systems.github.io/timeeval-evaluation-paper/)
 
 ## Survey
-- [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) - Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu. **TKDE, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2106.07178.pdf)  | [`survey`](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)    
+- [A Comprehensive Survey on Graph Anomaly Detection with Deep Learning](https://ieeexplore.ieee.org/abstract/document/9565320) - Xiaoxiao Ma, Jia Wu, Shan Xue, Jian Yang, Chuan Zhou, Quan Z. Sheng, Hui Xiong, Leman Akoglu. **TKDE, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2106.07178.pdf)  | [`paper lists`](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection)    
 
 
 ## Table of Contents
