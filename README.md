@@ -16,12 +16,13 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [2021](#2021)
 - [2020](#2020)
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
-- [Static GAD](#static-gad)
+- [Personal included](#personal-included)
+  - [Static GAD](#static-gad)
+  - [non-Graph AD](#non-graph-ad)
 
 ### 2022
 
 - [GANF: Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
-- [DGHL: Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection ](https://proceedings.mlr.press/v151/challu22a.html) - Cristian Challu, Peihong Jiang, Ying Nian Wu, Laurent Callot. **AISTATS, Mar 2022** |  [`[pdf]`](https://proceedings.mlr.press/v151/challu22a/challu22a.pdf) | [`[code]`](https://github.com/cchallu/dghl)  
 - [TranAD: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://dl.acm.org/doi/abs/10.14778/3514061.3514067) - Shreshth Tuli, Giuliano Casale, Nicholas R. Jennings. **P-VLDB, Feb 2022** |  [`[pdf]`](https://arxiv.org/pdf/2201.07284.pdf) | [`[code]`](https://github.com/imperial-qore/tranad)  
 - [STGAN: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://ieeexplore.ieee.org/abstract/document/9669110) - Leyan Deng; Defu Lian; Zhenya Huang; Enhong Chen. **TNNLS, Jan 2022** |  [`[code]`](https://github.com/dleyan/STGAN)  
 
@@ -42,6 +43,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 ---
 
+### Personal Included 
 #### Static GAD
 
 - [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3488560.3498473) - Rongrong Ma, Guansong Pang, Ling Chen, Anton van den Hengel. **WSDM, Feb 2022** | [`[pdf]`](https://arxiv.org/pdf/2112.10063.pdf) |  [`[code]`](https://github.com/RongrongMa/GLocalKD)
@@ -50,4 +52,6 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 - [Decoupling Representation Learning and Classification for GNN-based Anomaly Detection](https://dl.acm.org/doi/abs/10.1145/3404835.3462944) - Yanling Wang, Jing Zhang, Shasha Guo, Hongzhi Yin,  Cuiping Li, Hong Chen. **SIGIR, Jul 2021**  | [`[pdf]`](https://xiaojingzi.github.io/publications/SIGIR21-Wang-et-al-decoupled-GNN.pdf) |  [`[code]`](https://github.com/wyl7/DCI-pytorch)  
 
+#### non-Graph AD
+- [DGHL: Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection ](https://proceedings.mlr.press/v151/challu22a.html) - Cristian Challu, Peihong Jiang, Ying Nian Wu, Laurent Callot. **AISTATS, Mar 2022** |  [`[pdf]`](https://proceedings.mlr.press/v151/challu22a/challu22a.pdf) | [`[code]`](https://github.com/cchallu/dghl)  
 
