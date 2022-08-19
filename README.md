@@ -21,7 +21,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 ### 2022
 
 - [GANF: Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
-- [DGHL: Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection ](https://proceedings.mlr.press/v151/challu22a.html) - Shreshth Tuli, Giuliano Casale, Nicholas R. Jennings. **AISTATS, Mar 2022** |  [`[pdf]`](https://proceedings.mlr.press/v151/challu22a/challu22a.pdf) | [`[code]`](https://github.com/cchallu/dghl)  
+- [DGHL: Deep Generative model with Hierarchical Latent Factors for Time Series Anomaly Detection ](https://proceedings.mlr.press/v151/challu22a.html) - Cristian Challu, Peihong Jiang, Ying Nian Wu, Laurent Callot. **AISTATS, Mar 2022** |  [`[pdf]`](https://proceedings.mlr.press/v151/challu22a/challu22a.pdf) | [`[code]`](https://github.com/cchallu/dghl)  
 - [TranAD: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://dl.acm.org/doi/abs/10.14778/3514061.3514067) - Shreshth Tuli, Giuliano Casale, Nicholas R. Jennings. **P-VLDB, Feb 2022** |  [`[pdf]`](https://arxiv.org/pdf/2201.07284.pdf) | [`[code]`](https://github.com/imperial-qore/tranad)  
 - [STGAN: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://ieeexplore.ieee.org/abstract/document/9669110) - Leyan Deng; Defu Lian; Zhenya Huang; Enhong Chen. **TNNLS, Jan 2022** |  [`[code]`](https://github.com/dleyan/STGAN)  
 
