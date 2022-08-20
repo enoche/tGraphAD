@@ -43,7 +43,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 ---
 
-### Personal Included 
+### Personal Included High-Quality Publications
 #### Static GAD
 
 - [Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3488560.3498473) - Rongrong Ma, Guansong Pang, Ling Chen, Anton van den Hengel. **WSDM, Feb 2022** | [`[pdf]`](https://arxiv.org/pdf/2112.10063.pdf) |  [`[code]`](https://github.com/RongrongMa/GLocalKD)
