@@ -16,7 +16,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 - [2021](#2021)
 - [2020](#2020)
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
-- [Personal included](#personal-included)
+- [Personal included](#personal-included-high-quality-publications)
   - [Static GAD](#static-gad)
   - [non-Graph AD](#non-graph-ad)
 
