@@ -24,7 +24,7 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 - [GANF: Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series](https://arxiv.org/abs/2202.07857) - Enyan Dai, Jie Chen. **ICLR, May 2022**  | [`[pdf]`](https://arxiv.org/pdf/2202.07857.pdf) |  [`[code]`](https://github.com/EnyanDai/GANF)
 - [TranAD: Deep transformer networks for anomaly detection in multivariate time series data](https://dl.acm.org/doi/abs/10.14778/3514061.3514067) - Shreshth Tuli, Giuliano Casale, Nicholas R. Jennings. **P-VLDB, Feb 2022** |  [`[pdf]`](https://arxiv.org/pdf/2201.07284.pdf) | [`[code]`](https://github.com/imperial-qore/tranad)  
-- [STGAN: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://ieeexplore.ieee.org/abstract/document/9669110) - Leyan Deng; Defu Lian; Zhenya Huang; Enhong Chen. **TNNLS, Jan 2022** |  [`[code]`](https://github.com/dleyan/STGAN)  
+- [STGAN: Graph convolutional adversarial networks for spatiotemporal anomaly detection](https://ieeexplore.ieee.org/abstract/document/9669110) - Leyan Deng, Defu Lian, Zhenya Huang, Enhong Chen. **TNNLS, Jan 2022** |  [`[code]`](https://github.com/dleyan/STGAN)  
 
 ### 2021
 
