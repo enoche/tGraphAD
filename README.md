@@ -40,6 +40,8 @@ A curated list of recent awesome graph-based anomaly detection resources from 20
 
 ### Public Datasets (Link verified :heavy_check_mark:)
 - [SWaT] (https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/)   
+- [SMD] (https://github.com/NetManAIOps/OmniAnomaly)  
+- [SMAP&MSL] (https://drive.google.com/drive/folders/1uahSegdky35rdTeN8rufAzU8osfvyrFw?usp=sharing)
 
 ---
 
